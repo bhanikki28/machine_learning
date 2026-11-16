@@ -1,1 +1,5 @@
-# machine_learning
+## init_setup
+
+pip install --upgrade pip
+
+pip install -r requirements.txt
